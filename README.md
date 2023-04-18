@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">A passionate iOS developer from Russia</h3>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My skills:</h3>
 <p align="left">
 </p>
 
