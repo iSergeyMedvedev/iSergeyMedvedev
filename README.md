@@ -2,10 +2,11 @@
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="250" />
 </h1>
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
+  
+</h1>
+<a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Sergey+Medvedev;Nice+to+meet+you!&center=true&size=20">
   </a>
-</h1>
 
 
 <h3 align="left">My skills:</h3>
