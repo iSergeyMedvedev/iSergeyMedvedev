@@ -24,6 +24,8 @@ class Me: Skills {
 ## Frameworks  
 <img align="left" alt="CocoaTouch" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/cocoatouch.png?raw=true" />
 <img align="left" alt="SwiftUI" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/swiftui.png?raw=true" />
+<img align="left" alt="CoreData" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/coredata.png?raw=true" />
+<img align="left" alt="Firebase" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/firebase.png" />
 
 &nbsp;
 &nbsp; 
@@ -47,4 +49,16 @@ class Me: Skills {
 
 <a href="https://github.com/iSergeyMedvedev/XylophoneUICode">
 <img align="left" alt="Xylophone" height="40px" src="https://github.com/iSergeyMedvedev/XylophoneUICode/blob/main/XylophoneUICode/Assets.xcassets/AppIcon.appiconset/Icon-1024.png?raw=true" />
+</a>
+
+<a href="https://github.com/iSergeyMedvedev/DiceeUIcode">
+<img align="left" alt="Xylophone" height="40px" src="https://github.com/iSergeyMedvedev/DiceeUIcode/blob/main/DiceeUIcode/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true" />
+</a>
+
+<a href="https://github.com/iSergeyMedvedev/I-Am-PoorUICode">
+<img align="left" alt="Xylophone" height="40px" src="https://github.com/iSergeyMedvedev/I-Am-PoorUICode/blob/main/I%20Am%20Poor/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true" />
+</a>
+
+<a href="https://github.com/iSergeyMedvedev/Magic_8_Ball_UI_code">
+<img align="left" alt="Xylophone" height="40px" src="https://github.com/iSergeyMedvedev/I-Am-PoorUICode/blob/main/I%20Am%20Poor/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true" />
 </a>
