@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/ser/med/master/name.svg" alt="Ser" />
+  <img src="https://raw.githubusercontent.com/sergeymedvedev/sergeymedvedev/master/name.svg" alt="Sergey Medvedev" />
 </h1>
 <h1 align="center">Hi 👋, I'm Sergey Medvedev</h1>
 <h3 align="center">A passionate iOS developer from Russia</h3>
