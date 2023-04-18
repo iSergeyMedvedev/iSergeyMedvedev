@@ -10,7 +10,9 @@
 </h1>
 
 <h3 align="center">A passionate iOS developer from Russia</h3>
-```let name = "Sergey```
+```
+let name = "Sergey
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
