@@ -1,13 +1,13 @@
+
+<div align="center" width="40">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="100%"/><br> 
+  </div>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Sergey+Medvedev;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<div align="center" width="40">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="100%" height="100%"/><br> 
-  </div>
-
 
 <h3 align="center">A passionate iOS developer from Russia</h3>
 
