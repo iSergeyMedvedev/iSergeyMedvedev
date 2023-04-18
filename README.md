@@ -3,9 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Sergey+Medvedev;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<div align="center" width="100">
+<div align="center" width="40">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="40%"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="100%" height="100%"/><br> 
   </div>
 
 
