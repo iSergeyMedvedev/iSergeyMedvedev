@@ -59,6 +59,3 @@ class Me: Skills {
 <img align="left" alt="Xylophone" height="40px" src="https://github.com/iSergeyMedvedev/I-Am-PoorUICode/blob/main/I%20Am%20Poor/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true" />
 </a>
 
-<a href="https://github.com/iSergeyMedvedev/Magic_8_Ball_UI_code">
-<img align="left" alt="Xylophone" height="40px" src="https://github.com/iSergeyMedvedev/I-Am-PoorUICode/blob/main/I%20Am%20Poor/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true" />
-</a>
