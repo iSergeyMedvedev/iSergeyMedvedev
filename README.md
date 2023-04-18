@@ -11,7 +11,7 @@
 
 <h3 align="center">A passionate iOS developer from Russia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isergeymedvedev" alt="isergeymedvedev" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -20,3 +20,4 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isergeymedvedev&show_icons=true&locale=en" alt="isergeymedvedev" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isergeymedvedev&" alt="isergeymedvedev" /></p><p></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isergeymedvedev" alt="isergeymedvedev" /></a> </p>
