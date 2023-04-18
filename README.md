@@ -21,7 +21,5 @@
 <p align="left">
 </p>
 
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isergeymedvedev&show_icons=true&locale=en&layout=compact" alt="isergeymedvedev" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isergeymedvedev&show_icons=true&locale=en" alt="isergeymedvedev" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isergeymedvedev&" alt="isergeymedvedev" /></p>
