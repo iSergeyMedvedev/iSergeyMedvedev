@@ -15,7 +15,7 @@
 </p>
 
 ```Swift
-class Me: UISkills {
+class Me: Ukills {
     let frameworks = [UIKit, SwiftUI]
     let arthitectures = [MVC, MVP, MVVM]
     let storange = [Files, UserDefaults, Keychain, CoreData, Realm]
