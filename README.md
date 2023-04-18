@@ -17,6 +17,7 @@ let name = "Sergey
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+
 ```Swift
 class Me: UIView{
     let frameworks = [UIKit, SwiftUI]
@@ -25,6 +26,7 @@ class Me: UIView{
     let designPrinciples = [Dry, Kiss, Yagni, Solid]
 }
 ```
+
 ```javascript
 const thai = {
   pronouns: "she" | "her",
