@@ -15,4 +15,4 @@
 <p align="left">
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=isergeymedvedev&show_icons=true&locale=en" alt="isergeymedvedev" widht="10%"/><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isergeymedvedev&" alt="isergeymedvedev" widht="10%"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=isergeymedvedev&show_icons=true&locale=en" alt="isergeymedvedev" width="20%"/><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isergeymedvedev&" alt="isergeymedvedev" width="20%"/>
