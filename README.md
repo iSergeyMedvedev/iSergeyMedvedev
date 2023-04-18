@@ -1,5 +1,5 @@
 <h1 align="center">
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="520" />
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="320" />
 </h1>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
