@@ -10,7 +10,7 @@
 </p>
 
 ```Swift
-class Me: Ukills {
+class Me: Skills {
     let frameworks = [UIKit, SwiftUI]
     let arthitectures = [MVC, MVP, MVVM]
     let storange = [Files, UserDefaults, Keychain, CoreData, Realm]
