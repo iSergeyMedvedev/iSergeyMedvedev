@@ -15,6 +15,7 @@ class Me: Skills {
     let arthitectures = [MVC, MVP, MVVM]
     let storange = [Files, UserDefaults, Keychain, CoreData, Realm]
     let designPrinciples = [Dry, Kiss, Yagni, Solid]
+    let network = [URlSession, Alomofire]
 }
 ```
 
