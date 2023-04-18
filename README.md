@@ -19,4 +19,4 @@
 <p align="left">
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=isergeymedvedev&show_icons=true&locale=en" alt="isergeymedvedev" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isergeymedvedev&" alt="isergeymedvedev" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=isergeymedvedev&show_icons=true&locale=en" alt="isergeymedvedev" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isergeymedvedev&" alt="isergeymedvedev" />
