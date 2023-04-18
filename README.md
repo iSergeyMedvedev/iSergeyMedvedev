@@ -41,6 +41,10 @@ class Me: Skills {
 <img align="left" alt="Xylophone" height="40px" src="https://github.com/iSergeyMedvedev/QuizzlerUICode/blob/main/QuizzlerUICode/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true" />
 </a>
 
-<a href="https://github.com/iSergeyMedvedev/QuizzlerUICode">
-<img align="left" alt="Xylophone" height="40px" src="https://github.com/iSergeyMedvedev/QuizzlerUICode/blob/main/QuizzlerUICode/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true" />
+<a href="https://github.com/iSergeyMedvedev/EggTimerUICode">
+<img align="left" alt="Xylophone" height="40px" src="https://github.com/iSergeyMedvedev/EggTimerUICode/blob/main/EggTimerUICode/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true" />
+</a>
+
+<a href="https://github.com/iSergeyMedvedev/XylophoneUICode">
+<img align="left" alt="Xylophone" height="40px" src="https://github.com/iSergeyMedvedev/XylophoneUICode/blob/main/XylophoneUICode/Assets.xcassets/AppIcon.appiconset/Icon-1024.png?raw=true" />
 </a>
