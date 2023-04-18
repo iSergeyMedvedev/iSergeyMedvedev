@@ -5,7 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Sergey+Medvedev;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<h1 align="center">Hi 👋, I'm Sergey Medvedev</h1>
 <h3 align="center">A passionate iOS developer from Russia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isergeymedvedev&label=Profile%20views&color=0e75b6&style=flat" alt="isergeymedvedev" /> </p>
