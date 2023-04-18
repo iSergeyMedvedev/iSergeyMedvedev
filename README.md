@@ -16,7 +16,7 @@
 <p align="left">
 </p>
 ```Swift
-class Me: iOSDeveloper {
+class Me: UIView{
     let frameworks = [UIKit, SwiftUI]
     let arthitectures = [MVC, MVP, MVVM]
     let storange = [Files, UserDefaults, Keychain, CoreData, Realm]
