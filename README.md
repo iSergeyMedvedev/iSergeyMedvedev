@@ -10,10 +10,6 @@
 </h1>
 
 <h3 align="center">A passionate iOS developer from Russia</h3>
-```
-let name = "Sergey
-```
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -27,18 +23,4 @@ class Me: UIView{
 }
 ```
 
-```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=isergeymedvedev&show_icons=true&locale=en" alt="isergeymedvedev" width="47%"/>  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isergeymedvedev&" alt="isergeymedvedev" width="50%"/>
