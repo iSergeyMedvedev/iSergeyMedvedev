@@ -1,4 +1,4 @@
-<h12 align="center">
+<h2 align="center">
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="250" />
 </h2>
 <h2 align="center">
