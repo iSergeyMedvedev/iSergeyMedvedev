@@ -37,3 +37,10 @@ class Me: Skills {
 <img align="left" alt="Xylophone" height="40px" src="https://github.com/iSergeyMedvedev/BMI_CalculatorUICode/blob/main/BMI_CalculatorUICode/Resources/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true" />
 </a>
 
+<a href="https://github.com/iSergeyMedvedev/QuizzlerUICode">
+<img align="left" alt="Xylophone" height="40px" src="https://github.com/iSergeyMedvedev/QuizzlerUICode/blob/main/QuizzlerUICode/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true" />
+</a>
+
+<a href="https://github.com/iSergeyMedvedev/QuizzlerUICode">
+<img align="left" alt="Xylophone" height="40px" src="https://github.com/iSergeyMedvedev/QuizzlerUICode/blob/main/QuizzlerUICode/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true" />
+</a>
