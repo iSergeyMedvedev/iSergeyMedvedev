@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-```
+```Swift
 class Me: iOSDeveloper {
     let frameworks = [UIKit, SwiftUI]
     let arthitectures = [MVC, MVP, MVVM]
