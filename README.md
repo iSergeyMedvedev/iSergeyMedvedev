@@ -29,7 +29,7 @@ class Me: Skills {
 &nbsp; 
 
 ## iOS Apps
-<a href="https://github.com/VladimirFibe/Xylophone">
+<a href="https://github.com/iSergeyMedvedev/DestiniUICode">
 <img align="left" alt="Xylophone" height="40px" src="https://github.com/iSergeyMedvedev/DestiniUICode/blob/main/DestiniUICode/Resources/Assets.xcassets/AppIcon.appiconset/Icon.png?raw=true" />
 </a>
 
@@ -37,4 +37,3 @@ class Me: Skills {
 <img align="left" alt="Xylophone" height="40px" src="https://github.com/iSergeyMedvedev/BMI_CalculatorUICode/blob/main/BMI_CalculatorUICode/Resources/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true" />
 </a>
 
-https://github.com/iSergeyMedvedev/DestiniUICode/blob/main/DestiniUICode/Resources/Assets.xcassets/AppIcon.appiconset/Icon.png
