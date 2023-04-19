@@ -18,12 +18,12 @@ class Me: Skills {
     let frameworks = [UIKit, SwiftUI]
     let layout = [Storyboard, SnapKit, Code Layout]
     let data = [Files, UserDefaults, Keychain, CoreData, Realm, Firebase]
-    let networking = [URlSession, Rest Api,Alomofire]
+    let networking = [URlSession, Rest Api, Alomofire]
     let multithreading = [GCD]
     let arthitectures = [MVC, MVP, MVVM]
     let designPatterns = [Delegate, CallBack, Observer, Singleton, Factory]
     let designPrinciples = [OOP, POP, Dry, Kiss, Yagni, Solid]
-    let english = [B2]
+    let english = [B1]
 }
 ```
 
