@@ -76,3 +76,7 @@ class Me: Skills {
 <img align="left" alt="Xylophone" height="40px" src="https://github.com/iSergeyMedvedev/Clima/blob/main/Clima/Resources/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true" />
 </a>
 
+<a href="https://github.com/iSergeyMedvedev/ByteCoinUICode">
+<img align="left" alt="ByteCoinUICode" height="40px" src="https://github.com/iSergeyMedvedev/ByteCoinUICode/blob/main/ByteCoinUICode/Resources/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true" />
+</a>
+
